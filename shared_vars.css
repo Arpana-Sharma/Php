@@ -1,0 +1,10 @@
+@import url(chrome://resources/css/roboto.css);
+
+body {
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 81.25%;
+}
+
+button {
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}

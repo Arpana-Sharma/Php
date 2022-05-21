@@ -1,0 +1,3 @@
+CREATE TABLE `mydata`.`student` ( `sNo` INT(3) NOT NULL AUTO_INCREMENT ,  `Name` VARCHAR(30) NOT NULL ,  
+`Subject` VARCHAR(10) NOT NULL ,    PRIMARY KEY  (`sNo`)) ENGINE = InnoDB COMMENT = 'Nothing';
+​
